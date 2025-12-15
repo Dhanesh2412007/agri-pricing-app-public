@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p1",
+    "name": "Organic Wheat Seeds",
+    "price": 250,
+    "image": "https://images.unsplash.com/photo-1506806732259-39c2d0268443?q=80&w=800&auto=format&fit=crop&crop=entropy",
+    "description": "High-yield organic wheat seeds suitable for varied climates."
+  },
+  {
+    "id": "p2",
+    "name": "Farm Fertilizer 10kg",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?q=80&w=800&auto=format&fit=crop&crop=entropy",
+    "description": "Balanced NPK fertilizer for healthier crop growth."
+  },
+  {
+    "id": "p3",
+    "name": "Irrigation Pump",
+    "price": 8500,
+    "image": "https://images.unsplash.com/photo-1546283876-9f2e2fc7e29b?q=80&w=800&auto=format&fit=crop&crop=entropy",
+    "description": "Durable irrigation pump for small to medium fields."
+  },
+  {
+    "id": "p4",
+    "name": "Handheld Soil Tester",
+    "price": 650,
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?q=80&w=800&auto=format&fit=crop&crop=entropy",
+    "description": "Quick soil pH and moisture tester for on-field analysis."
+  },
+  {
+    "id": "p5",
+    "name": "Organic Fertilizer (5kg)",
+    "price": 600,
+    "image": "https://images.unsplash.com/photo-1507093803365-6f4a9df7b8d8?q=80&w=800&auto=format&fit=crop&crop=entropy",
+    "description": "Certified organic fertilizer for sustainable farming."
+  },
+  {
+    "id": "p6",
+    "name": "Vegetable Seed Pack",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?q=80&w=800&auto=format&fit=crop&crop=entropy",
+    "description": "Mixed vegetable seeds pack for home and small farms."
+  }
+]
